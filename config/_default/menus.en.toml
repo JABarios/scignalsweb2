@@ -1,0 +1,78 @@
+############# English navigation ##############
+
+[[main]]
+name = "Technologies"
+url = "project/"
+weight = 1
+hasChildren = true
+
+  [[main]]
+  parent = "Technologies"
+  name = "Scignabot"
+  url = "service/"
+  weight = 1
+
+  [[main]]
+  parent = "Technologies"
+  name = "Signalino"
+  url = "service2/"
+  weight = 2
+
+  [[main]]
+  parent = "Technologies"
+  name = "Memboost"
+  url = "service3/"
+  weight = 3
+
+[[main]]
+name = "I+D projects"
+url = "project/"
+weight = 3
+
+
+[[main]]
+name = "News"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "About"
+url = "/#miabout"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Project"
+url = "project/"
+weight = 3
+
+[[footer]]
+name = "Service"
+url = "service/"
+weight = 4
+
+[[footer]]
+name = "Pricing"
+url = "pricing/"
+weight = 5
+
+[[footer]]
+name = "FAQ"
+url = "faq/"
+weight = 6
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 7
