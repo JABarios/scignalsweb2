@@ -3,7 +3,7 @@ id: "0003"
 title: "Scignals living Elx at PCUMH"
 date: 2019-07-17T15:45:23+02:00
 draft: false
-image : "images/blog/imag_h2020_en.png"
+image : "images/blog/foto_escritorio.jpg"
 bg_image: "images/feature-bg.jpg"
 summary: "Tecnologías para procesar señales biomédicas con ILSB, nueva empresa del PCUMH"
 description: "Tecnologías para procesar señales biomédicas con ILSB, nueva empresa del PCUMH"
@@ -15,7 +15,6 @@ author: "juanb"
 
 ## Our technologies
 
-![article-img-centered](/img/blog/0003/foto_escritorio.jpg)
 
 A memory enhancing system, a proprietary platform for neuroscience techniques applied to consumption or an open-source platform for recording and processing biomedical signals. These are some of the technologies in which the Research and Reading of Biomedical Signals start-up works, ILSB, which has recently been incorporated into the UMH Scientific Park. Created in 2016 by Juan Antonio Barios, Jorge Barios and Nazario Félix, this technological company was born as a result of the research work developed by its partners at the Biomedical Technology Center of Madrid.
 

@@ -96,7 +96,7 @@ un interfaz cerebro-computadora para la interacción con robots de neurorrehabil
 
 un dispositivo portátil de modulación del sueño para mejora del rendimiento intelectual 
 
-### [Signalino](\"http://www.signalino.com\")
+### [Signalino](/blog/recording-signals-signalino/)
 
 un sistema de adquisición de señales biológicas de código abierto y bajo costo basado en Arduino ([vea nuestra tienda](\"http://www.signalino.com/producto/signalino-kit-2/\"))"
 
