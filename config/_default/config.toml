@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://www.scignals.com/"
+baseURL = "https://jabarios.github.io/scignalsweb2/public/"
 title = "Scignals | Surfing on brainwaves"
 theme = "airspace-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List

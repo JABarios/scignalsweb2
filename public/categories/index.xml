@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Scignals | Surfing on brainwaves</title>
-    <link>http://www.scignals.com/categories/</link>
+    <link>https://jabarios.github.io/scignalsweb2/public/categories/</link>
     <description>Recent content in Categories on Scignals | Surfing on brainwaves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jul 2019 15:45:23 +0200</lastBuildDate><atom:link href="http://www.scignals.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jul 2019 15:45:23 +0200</lastBuildDate><atom:link href="https://jabarios.github.io/scignalsweb2/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Company News</title>
-      <link>http://www.scignals.com/categories/company-news/</link>
+      <link>https://jabarios.github.io/scignalsweb2/public/categories/company-news/</link>
       <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
       
-      <guid>http://www.scignals.com/categories/company-news/</guid>
+      <guid>https://jabarios.github.io/scignalsweb2/public/categories/company-news/</guid>
       <description></description>
     </item>
     
