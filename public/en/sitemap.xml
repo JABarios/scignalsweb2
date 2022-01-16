@@ -25,100 +25,8 @@
                 href="http://www.scignals.com/faq/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/categories/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/categories/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/how-to/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/how-to/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/blog/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/blog/date-i18n/"
-                />
-  </url><url>
     <loc>http://www.scignals.com/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -140,77 +48,8 @@
                 href="http://www.scignals.com/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/tags/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/categories/technical-assistance/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/categories/technical-assistance/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/technology/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/technology/"
-                />
-  </url><url>
     <loc>http://www.scignals.com/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -232,100 +71,31 @@
                 href="http://www.scignals.com/tags/advice/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://www.scignals.com/categories/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.scignals.com/fr/tags/ai/"
+                href="http://www.scignals.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://www.scignals.com/it/tags/ai/"
+                href="http://www.scignals.com/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.scignals.com/de/tags/ai/"
+                href="http://www.scignals.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.scignals.com/tags/ai/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/android/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/categories/artificial-intelligence/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/company/"
+                href="http://www.scignals.com/categories/"
                 />
   </url><url>
     <loc>http://www.scignals.com/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -347,237 +117,89 @@
                 href="http://www.scignals.com/categories/company-news/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://www.scignals.com/blog/instrument_phasei_memboost.es/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>http://www.scignals.com/blog/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.scignals.com/fr/blog/blog-post-1/"
+                href="http://www.scignals.com/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://www.scignals.com/it/blog/blog-post-1/"
+                href="http://www.scignals.com/it/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.scignals.com/de/blog/blog-post-1/"
+                href="http://www.scignals.com/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.scignals.com/blog/blog-post-1/"
+                href="http://www.scignals.com/blog/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://www.scignals.com/blog/enhancing-memory-memboost/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>http://www.scignals.com/blog/recording-signals-signalino/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>http://www.scignals.com/tags/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.scignals.com/fr/blog/blog-post-2/"
+                href="http://www.scignals.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://www.scignals.com/it/blog/blog-post-2/"
+                href="http://www.scignals.com/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.scignals.com/de/blog/blog-post-2/"
+                href="http://www.scignals.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.scignals.com/blog/blog-post-2/"
+                href="http://www.scignals.com/tags/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://www.scignals.com/tags/technology/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.scignals.com/fr/blog/blog-post-3/"
+                href="http://www.scignals.com/fr/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://www.scignals.com/it/blog/blog-post-3/"
+                href="http://www.scignals.com/it/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.scignals.com/de/blog/blog-post-3/"
+                href="http://www.scignals.com/de/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.scignals.com/blog/blog-post-3/"
+                href="http://www.scignals.com/tags/technology/"
                 />
   </url><url>
-    <loc>http://www.scignals.com/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/blog/blog-post-4/"
-                />
+    <loc>http://www.scignals.com/blog/scignabot_proyecto/</loc>
+    <lastmod>2019-07-20T15:45:23+02:00</lastmod>
   </url><url>
-    <loc>http://www.scignals.com/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/blog/blog-post-5/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/blog/blog-post-6/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/categories/legacy-support/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/mechine/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/news/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.scignals.com/fr/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://www.scignals.com/it/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.scignals.com/de/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.scignals.com/tags/retro/"
-                />
-  </url><url>
-    <loc>http://www.scignals.com/_jindex/</loc>
+    <loc>http://www.scignals.com/blog/welcome-pcumh3/</loc>
+    <lastmod>2019-07-17T15:45:23+02:00</lastmod>
   </url><url>
     <loc>http://www.scignals.com/message_sent/</loc>
     <xhtml:link
