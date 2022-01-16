@@ -9,19 +9,19 @@ hasChildren = true
   [[main]]
   parent = "Technologies"
   name = "Scignabot"
-  url = "/blog/scignabot_proyecto/"
+  url = "blog/scignabot_proyecto/"
   weight = 1
 
   [[main]]
   parent = "Technologies"
   name = "Signalino"
-  url = "/blog/recording-signals-signalino/"
+  url = "blog/recording-signals-signalino/"
   weight = 2
 
   [[main]]
   parent = "Technologies"
   name = "Memboost"
-  url = "/blog/enhancing-memory-memboost/"
+  url = "blog/enhancing-memory-memboost/"
   weight = 3
 
 [[main]]
