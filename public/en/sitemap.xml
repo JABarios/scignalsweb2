@@ -71,6 +71,9 @@
                 href="https://jabarios.github.io/scignalsweb2/public/tags/advice/"
                 />
   </url><url>
+    <loc>https://jabarios.github.io/scignalsweb2/public/blog/captacion-procesamiento-avanzado-se%C3%B1ales/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
     <loc>https://jabarios.github.io/scignalsweb2/public/categories/</loc>
     <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
@@ -120,6 +123,9 @@
     <loc>https://jabarios.github.io/scignalsweb2/public/blog/instrument_phasei_memboost.es/</loc>
     <lastmod>2019-07-21T15:45:23+02:00</lastmod>
   </url><url>
+    <loc>https://jabarios.github.io/scignalsweb2/public/blog/enhancing-memory-memboost/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
     <loc>https://jabarios.github.io/scignalsweb2/public/blog/</loc>
     <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
@@ -142,9 +148,6 @@
                 hreflang="en"
                 href="https://jabarios.github.io/scignalsweb2/public/blog/"
                 />
-  </url><url>
-    <loc>https://jabarios.github.io/scignalsweb2/public/blog/enhancing-memory-memboost/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
   </url><url>
     <loc>https://jabarios.github.io/scignalsweb2/public/blog/recording-signals-signalino/</loc>
     <lastmod>2019-07-21T15:45:23+02:00</lastmod>
