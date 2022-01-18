@@ -31,13 +31,13 @@ weight = 3
 
 
 [[main]]
-name = "News"
+name = "Blog"
 url = "blog/"
 weight = 4
 
 [[main]]
 name = "About"
-url = "#miabout"
+url = "about/"
 weight = 5
 
 [[main]]
@@ -48,31 +48,33 @@ weight = 6
 
 # footer menu
 [[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+
+[[footer]]
 name = "About"
 url = "about/"
-weight = 2
+weight = 3
 
 [[footer]]
 name = "Project"
 url = "project/"
-weight = 3
+weight = 4
 
 [[footer]]
 name = "Service"
 url = "service/"
-weight = 4
-
-[[footer]]
-name = "Pricing"
-url = "pricing/"
 weight = 5
 
-[[footer]]
-name = "FAQ"
-url = "faq/"
-weight = 6
 
 [[footer]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 6

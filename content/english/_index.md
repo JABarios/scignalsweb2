@@ -2,10 +2,10 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/prueba.jpg"
+  bg_image: "images/mano_cerebro.jpg"
   bg_overlay: true
   title: "A Neurotechnology <br/> Company"
-  content: "We love neuroscience and we love technology. We work  to deliver  the best possible solutions for improving healthy and injured brains"
+  content: "En **SCIGNALS** desarrollamos neurotecnología para el mundo real. Creamos soluciones hardware y software utilizando herramientas de  inteligencia artificial, monitorización y procesamiento avanzado de señales biomédicas para ayudar a los profesionales a resolver sus problemas prácticos y de investigación en el campo de la salud y la neurociencia."
   button:
     enable: true
     label: "Discover Our Projects"
@@ -14,76 +14,44 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "<a id=\"miabout\"></a>About Us"
-  description: "**SCIGNALS** es una startup de neurotecnología enfocada en la investigación, desarrollo y comercialización de tecnologías especializadas para registrar y procesar señales biomédicas en el campo de la salud y la neurociencia."
+  title: "<a id=\"miabout\"></a>Our Mision"
+  description: "En **SCIGNALS** desarrollamos neurotecnología para el mundo real. Creamos soluciones hardware y software utilizando herramientas de  inteligencia artificial, monitorización y procesamiento avanzado de señales biomédicas para ayudar a los profesionales a resolver sus problemas prácticos en el campo de la salud y la neurociencia."
   content: "
 
-Nacida en colaboración con  las Universidades Politécnica de Madrid (UPM) y Miguel Hernández de Elche (UMH), 
-nuestros principales activos son 
-
-### Tecnología propia con aplicaciones demostradas en cuatro áreas:
-
-
-<ul>
-<li> i) mejora cognitiva, 
-<li> ii) dispositivos robóticos de neurorehabilitación controlados por brain computer interface (BCI), 
-<li> iii) dispositivos médicos de neuromonitorización, 
-<li> iv) neurociencia aplicada al consumidor.
-</ul>
-
-
-###  Sólidas alianzas establecidas con instituciones y empresas del sector que potencian su aplicación:
-
-<ul>
-<li>-Universidades:  Parque cientifico de UMH, con 2 puestos de trabajo, favorece colaboraciones con UMH.
-<li>-Insituciones Clínicas: Laboratorio de Nuevas tecnologías: Situado en la Fundación Instituto San José, con 3 puestos de trabajo, permite el acceso a pacientes.
-<li>-Mundo empresarial. [Brainnovative](\"http://www.brainnovative.es\"), una empresa especializada en consultoría para neurociencias orientadas al consumidor que utiliza nuestras soluciones tecnológicas individualizadas desarrolladas para 
-</ul>
-
-
-
-### Equilibrado equipo fundador
-
-Expertos reconocidos en áreas  complementarias (neurociencia, medicina, ingeniería, operaciones y desarrollo de negocio), 
-
 "
-#  image: "images/figure1.png"
-  image: "images/artificial-4082314_1920.jpg"
+  image: "images/figure1.png"
+  image: "images/artif_nn.png"
 
 
 ########################## featured service ############################
 featured_service:
   enable : true
+  title: "OUR TECHNOLOGY"
   service_item:
     # featured service item loop
-    - name : "Interface Design"
+    - name : "Brain Robot Interfaces"
       icon : "fas fa-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
     # featured service item loop
-    - name : "Interface Design"
-      icon : "fas fa-flask"
+    - name : "Neuromonitorización"
+      icon : "fas fa-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
     # featured service item loop
-    - name : "Product Branding"
-      icon : "fas fa-leaf"
+    - name : "Mejora Cognitiva"
+      icon : "fas fa-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
-    # featured service item loop
-    - name : "Game Development"
-      icon : "fas fa-lightbulb"
-      color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/sgno_due_oscospio2.png"
+  bg_image: "images/interfaz_eeg.jpg"
   title: "OUR PROJECTS"
   content: " Para lograr estos objetivos, actualmente estamos trabajando en diferentes proyectos:
 
@@ -123,8 +91,8 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We are experts in neurotechnology."
-  content: "Read more about what we do and our view of neurotechnology field. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to work hard."
+  title: "We are experts in practical neurotechnology."
+  content: "We love neuroscience and we love technology. We work  to deliver  the best possible solutions for improving healthy and injured brains. Read more about our view of neurotechnology field, judge for yourself the work and results we’ve achieved, and meet our highly experienced Team who just love to work hard."
   button:
     enable: true
     label: "Tell Us Your Story"

@@ -1,7 +1,7 @@
 ---
 title: "Service"
 description: "Estos son nuestros servicios"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/mano_cerebro.jpg"
 layout: "service"
 draft: false
 

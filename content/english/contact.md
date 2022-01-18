@@ -1,7 +1,7 @@
 ---
 title: "Drop Us A Note"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+description: ""
+bg_image: "images/mano_cerebro.jpg"
 layout: "contact"
 draft: false
 ---

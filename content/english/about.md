@@ -1,7 +1,7 @@
 ---
 title: "About Our Company"
 description: "Surfing on brainwaves"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/mano_cerebro.jpg"
 layout: "about"
 draft: false
 
@@ -9,18 +9,40 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
+  image : "images/unafoto.jpg"
   title : "Somos una empresa de neurotecnología."
-  content : "SCIGNALS es una startup de neurotecnología nacida en colaboración con  las Universidades Politécnica de Madrid (UPM) y Miguel Hernández de Elche (UMH), enfocada en la investigación, desarrollo y comercialización de tecnologías especializadas para registrar y procesar señales biomédicas en el campo de la salud y la neurociencia.
+  content : "
+  SCIGNALS es una startup de neurotecnología nacida en colaboración con  las Universidades Politécnica de Madrid (UPM) y Miguel Hernández de Elche (UMH), enfocada en la investigación, desarrollo y comercialización de tecnologías especializadas para registrar y procesar señales biomédicas en el campo de la salud y la neurociencia. 
+  
+  Nuestras principales activos son:
+  
+  ### **Tecnología propia** con aplicaciones demostradas en cuatro áreas:
+  
+  > 1. Mejora cognitiva (Memboost), 
+  
+  > 1. Dispositivos robóticos de neurorehabilitación controlados por brain computer interface (BCI), 
+  
+  > 1. Dispositivos médicos de neuromonitorización, 
+  
+  > 1. Neurociencia aplicada al consumidor.
+  
 
-Nuestras principales activos son:
 
 
-Nuestro equilibrado equipo fundador, tres socios provenientes de áreas distintas y complementarias entre sí (neurociencia y medicina, ingeniería, operaciones y desarrollo de negocio), así como las alianzas establecidas con instituciones y empresas del sector que potencian su aplicación:
+### **Sólidas alianzas** establecidas con instituciones y empresas del sector 
 
-- Parque cientifico de UMH, con 2 puestos de trabajo, favorece colaboraciones con UMH.
-- Laboratorio de Nuevas tecnologías: Situado en la Fundación instituto san jose, con 3 puestos de trabajo, permite el acceso a pacientes.
-- Soluciones tecnológicas empresarialmente individualizadas desarrolladas para [Brainnovative](\"http://www.brainnovative.es\"), una empresa especializada en consultoría para neurociencias orientadas al consumidor
+> - **Universidades**:  Nuestra sede, en Elche (Alicante, Spain),  está en el [Parque cientifico de la Universidad Miguel Hernández](https://parquecientificoumh.es/es), facilitando la colaboración empresa-universidad. 
+
+> - **Insituciones Clínicas**: Nuestra segunda sede, el Laboratorio de Nuevas Tecnologías, está Situado en la [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), una institución clínica de larga tradición que facilita el desarrollo de dispositivos en el area de salud.
+
+> - **Mundo empresarial**: <a href=\"http://www.brainnovative.es\">Brainnovative</a>, una empresa especializada en consultoría para neurociencias orientadas al consumidor, utiliza nuestras soluciones tecnológicas 
+
+
+
+### **Equipo fundador**
+
+Un conjunto equilibrado de expertos reconocidos en áreas  complementarias (neurociencia, medicina, ingeniería, operaciones y desarrollo de negocio), 
+
 
 "
  

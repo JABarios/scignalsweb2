@@ -1,0 +1,27 @@
+---
+id: "0009"
+title: "CAPTACIóN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS"
+date: 2019-07-21T15:45:23+02:00
+draft: false
+image : "images/blog/proy_ivace.jpg"
+bg_image: "images/feature-bg.jpg"
+categories: ["Company News"]
+tags: ["Advice","Technology"]
+description: "this is meta description"
+---
+
+
+
+CAPTACIÓN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS
+
+### PROYECTO: CAPTACIÓN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS
+
+NÚMERO DE EXPEDIENTE: IMCBTA/2019/30
+ENTIDAD FINANCIADORA: IVACE – CREATEC. FONDOS FEDER
+
+### OBJETIVOS ALCANZADOS
+
+- Empleo de la plataforma signalino como sistema de registro de señales de electroencefalografía durante el sueño para ser transferida de forma inalámbrica a un dispositivo móvil.
+- Desarrollo e implementación de los algoritmos necesarios para la detección de las diversas fases del sueño.
+- Desarrollo e implementación de los algoritmos necesarios para la generación de un estímulo sonoro que se encuentre sincronizado con la señal eléctrica cerebral durante la fase del sueño lento
+- Diseño y desarrollo de un sistema wearable basado en la plataforma signalino miniaturizado, de bajo coste, portátil y autonomía suficiente para 12 horas de funcionamiento continuo.

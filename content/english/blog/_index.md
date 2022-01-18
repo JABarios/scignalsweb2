@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
-description: "this is meta description"
+title: "Our Blog"
+description: "Read our last posts about neurotechnology"
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/mano_cerebro.jpg"
 ---
