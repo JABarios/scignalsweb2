@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/mano_cerebro.jpg"
+  bg_image: "images/mano_cerebro2.jpg"
   bg_overlay: true
   title: "A Neurotechnology <br/> Company"
   content: "En **SCIGNALS** desarrollamos neurotecnología para el mundo real. Creamos soluciones hardware y software utilizando herramientas de  inteligencia artificial, monitorización y procesamiento avanzado de señales biomédicas para ayudar a los profesionales a resolver sus problemas prácticos y de investigación en el campo de la salud y la neurociencia."

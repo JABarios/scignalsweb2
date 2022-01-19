@@ -4,7 +4,7 @@ title: "Scignals living Elx at PCUMH"
 date: 2019-07-17T15:45:23+02:00
 draft: false
 image : "images/blog/foto_escritorio.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/mano_cerebro2.jpg"
 summary: "Tecnologías para procesar señales biomédicas con ILSB, nueva empresa del PCUMH"
 description: "Tecnologías para procesar señales biomédicas con ILSB, nueva empresa del PCUMH"
 author: "juanb"

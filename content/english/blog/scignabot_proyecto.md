@@ -6,7 +6,7 @@ draft: false
 summary: "Scignabot: Innovation in neurorehabilitation with interfaces brain-robot"
 description: "Scignabot: Innovation in neurorehabilitation with interfaces brain-robot"
 image : "images/blog/bci.png"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/mano_cerebro2.jpg"
 author: "juanb"
 aliases: ["scignabot"]
 thumbnail: "thumbnail.jpg"

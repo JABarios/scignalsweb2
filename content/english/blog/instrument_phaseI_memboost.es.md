@@ -4,7 +4,7 @@ title: "H2020 co-financia Memboost"
 date: 2019-07-21T15:45:23+02:00
 draft: false
 image : "images/blog/imag_h2020_en.png"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/mano_cerebro2.jpg"
 categories: ["Company News"]
 tags: ["Advice","Technology"]
 description: "this is meta description"
