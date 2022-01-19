@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.scignals.org/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.scignals.org/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.scignals.org/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.scignals.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.scignals.org/"
+                />
+  </url><url>
+    <loc>https://www.scignals.org/blog/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.scignals.org/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.scignals.org/it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.scignals.org/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.scignals.org/blog/"
+                />
+  </url><url>
+    <loc>https://www.scignals.org/blog/joining-hbp/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+  </url><url>
     <loc>https://www.scignals.org/faq/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -23,29 +72,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/faq/"
-                />
-  </url><url>
-    <loc>https://www.scignals.org/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.scignals.org/"
                 />
   </url><url>
     <loc>https://www.scignals.org/tags/advice/</loc>
@@ -125,29 +151,6 @@
   </url><url>
     <loc>https://www.scignals.org/blog/enhancing-memory-memboost/</loc>
     <lastmod>2019-07-21T15:45:23+02:00</lastmod>
-  </url><url>
-    <loc>https://www.scignals.org/blog/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.scignals.org/blog/"
-                />
   </url><url>
     <loc>https://www.scignals.org/blog/recording-signals-signalino/</loc>
     <lastmod>2019-07-21T15:45:23+02:00</lastmod>
