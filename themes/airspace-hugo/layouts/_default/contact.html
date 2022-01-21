@@ -61,6 +61,7 @@
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{- end }}
           </ul>
+ 
         </div>
       </div>
       {{- end }}
@@ -75,6 +76,8 @@
       {{- end }}
     </div>
   </div>
+  <p style="color:aqua" > {{site.Params.contact.form.legal_formulario|markdownify}}</p>
+
 </section>
 
 {{ end }}

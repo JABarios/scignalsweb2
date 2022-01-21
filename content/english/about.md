@@ -18,13 +18,13 @@ about:
   
   ### **Tecnología propia** con aplicaciones demostradas en cuatro áreas:
   
-  > 1. Mejora cognitiva (Memboost), 
+  > 1. Mejora cognitiva: [Memboost](/blog/enhancing-memory-memboost), 
   
-  > 1. Dispositivos robóticos de neurorehabilitación controlados por brain computer interface (BCI), 
+  > 1. Dispositivos robóticos de neurorehabilitación controlados por BCI: [Scignabot](/blog/scignabot_proyecto) , 
   
-  > 1. Dispositivos médicos de neuromonitorización, 
+  > 1. Dispositivos de neuromonitorización: [Signalino](/blog/recording-signals-signalino), 
   
-  > 1. Neurociencia aplicada al consumidor.
+  > 1. Neurociencia aplicada al consumidor: [Brainnovative](www.brainnovative.es).
   
 
 
@@ -33,7 +33,7 @@ about:
 
 > - **Universidades**:  Nuestra sede, en Elche (Alicante, Spain),  está en el [Parque cientifico de la Universidad Miguel Hernández](https://parquecientificoumh.es/es), facilitando la colaboración empresa-universidad. 
 
-> - **Insituciones Clínicas**: Nuestra segunda sede, el Laboratorio de Nuevas Tecnologías, está Situado en la [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), una institución clínica de larga tradición que facilita el desarrollo de dispositivos en el area de salud.
+> - **Insituciones Clínicas**: Nuestro Laboratorio de Nuevas Tecnologías (Madrid,Spain), situado en la [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), una institución clínica de larga tradición que facilita el desarrollo de dispositivos en el area de salud.
 
 > - **Mundo empresarial**: <a href=\"http://www.brainnovative.es\">Brainnovative</a>, una empresa especializada en consultoría para neurociencias orientadas al consumidor, utiliza nuestras soluciones tecnológicas 
 

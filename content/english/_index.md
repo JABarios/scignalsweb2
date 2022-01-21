@@ -30,20 +30,20 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Brain Robot Interfaces"
-      icon : "fas fa-flask"
+      icon : "fas fa-robot"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "A neurorehabilitation approach combining robot-assisted active physical therapy and traditional  Brain-Computer Interface systems (BCIs), providing  significant advances over conventional rehabilitation methods for patients with severe motor impairment due to cerebrovascular brain damage (e.g., stroke)."
 
     # featured service item loop
     - name : "Neuromonitorización"
-      icon : "fas fa-leaf"
+      icon : "fas fa-signature"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Sistemas orientados a la	evaluación	de	la	integridad	de	las	vías	sensoriales,	motoras	y	cognitivas de forma no	invasiva,	contnua,	fácil	y	rápida	de	interpretar,	y	con	un	coste	económico	razonable."
     # featured service item loop
     - name : "Mejora Cognitiva"
-      icon : "fas fa-flask"
+      icon : "fas fa-brain"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Recent advances in neuroscience technologies  have paved the way to innovative applications that cognitively augment and enhance humans in a variety of contexts, including  the areas of communication, cognitive enhancement, memory, attention monitoring/enhancement, situation awareness and complex problem solving."
 
 
 
@@ -51,7 +51,7 @@ featured_service:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/interfaz_eeg.jpg"
+  bg_image: "images/bitmap.png"
   title: "OUR PROJECTS"
   content: " Para lograr estos objetivos, actualmente estamos trabajando en diferentes proyectos:
 
@@ -60,13 +60,16 @@ portfolio:
 
 un interfaz cerebro-computadora para la interacción con robots de neurorrehabilitación, desarrollado en el Laboratorio de Nuevas Tecnologías para la Neurorrehabilitación (Madrid, España), uniendo fuerzas con la [Fundación Instituto San José, ](http://fundacioninstitutosanjose.com/) perteneciente a la Orden de San Juan de Dios, y la empresa [iDRhA](\"http://www.idrha.es\"), una spin-off del [grupo de NeuroBioengeniering](\"bio.umh.es\") de la Universidad Miguel Hernández de Elche (Alicante, España).
 
-### [MemBoost](/blog/enhancing-memory-memboost/) 
-
-un dispositivo portátil de modulación del sueño para mejora del rendimiento intelectual 
 
 ### [Signalino](/blog/recording-signals-signalino/)
 
-un sistema de adquisición de señales biológicas de código abierto y bajo costo basado en Arduino ([vea nuestra tienda](\"http://www.signalino.com/producto/signalino-kit-2/\"))"
+un sistema de adquisición de señales biológicas de código abierto y bajo costo basado en Arduino ([vea nuestra tienda](\"http://www.signalino.com/producto/signalino-kit-2/\"))
+
+### [MemBoost](/blog/enhancing-memory-memboost/) 
+
+un dispositivo portátil de modulación del sueño para mejora del rendimiento intelectual. [Parcialmente financiado por IVACE y la UE, a través de fondos FEDER](/blog/captacion-procesamiento-avanzado/)  
+
+"
 
   button:
     enable: true
@@ -90,7 +93,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/FEDERIvaceDeclaracion-CS.png"
   title: "We are experts in practical neurotechnology."
   content: "We love neuroscience and we love technology. We work  to deliver  the best possible solutions for improving healthy and injured brains. Read more about our view of neurotechnology field, judge for yourself the work and results we’ve achieved, and meet our highly experienced Team who just love to work hard."
   button:
