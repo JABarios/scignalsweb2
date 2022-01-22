@@ -33,7 +33,7 @@ Avda. de la Universidad s/n
 
 """
 # copyright
-copyright = "<img src=\"/images/logo-eu-02-en.svg\" width=\"50\" height=\"60\" > <img src=\"/images/mini_ivace.png\" height=\"60\" > Project co-financed by European Union & IVACE "
+copyright = "<img src=\"/images/logo-eu-02-en.svg\" width=\"50\" height=\"60\" > <img src=\"/images/mini_ivace.png\" height=\"60\" > Project co-financed by FEDER Programme of Comunitat Valenciana 2014-2020"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

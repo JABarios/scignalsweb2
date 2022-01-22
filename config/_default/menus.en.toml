@@ -24,11 +24,6 @@ hasChildren = true
   url = "blog/enhancing-memory-memboost/"
   weight = 3
 
-[[main]]
-name = "I+D projects"
-url = "project/"
-weight = 3
-
 
 [[main]]
 name = "Blog"
