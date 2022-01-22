@@ -7,6 +7,8 @@ summary: ""
 description: ""
 image : "images/blog/bci.png"
 bg_image: "images/mano_cerebro2.jpg"
+categories: ["Science"]
+tags: ["Neurorehabilitation","Stroke","Technology"]
 author: "juanb"
 aliases: ["scignabot"]
 thumbnail: "thumbnail.jpg"

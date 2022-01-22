@@ -6,7 +6,7 @@ draft: false
 image : "images/blog/proy_ivace.jpg"
 bg_image: "images/mano_cerebro2.jpg"
 categories: ["Company News"]
-tags: ["Advice","Technology"]
+tags: ["i+d","projects"]
 description: "this is meta description"
 ---
 

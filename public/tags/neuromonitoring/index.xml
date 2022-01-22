@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuromonitoring on Scignals | Surfing on brainwaves</title>
+    <link>https://www.scignals.org/tags/neuromonitoring/</link>
+    <description>Recent content in Neuromonitoring on Scignals | Surfing on brainwaves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 21 Jul 2019 15:45:23 +0200</lastBuildDate><atom:link href="https://www.scignals.org/tags/neuromonitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recording brain signals with Signalino</title>
+      <link>https://www.scignals.org/blog/recording-signals-signalino/</link>
+      <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/blog/recording-signals-signalino/</guid>
+      <description>Signalino, a signal recorder</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,6 +10,8 @@ bg_image: "images/mano_cerebro2.jpg"
 author: "juanb"
 aliases: ["scignabot"]
 thumbnail: "thumbnail.jpg"
+categories: ["Company News"]
+tags: ["i+d","Projects"]
 ---
 
 

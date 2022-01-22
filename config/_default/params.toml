@@ -20,15 +20,11 @@ address_descriptors = false
 phone = "0124857985320"
 email = "info@scignals.com"
 location = """
-**Scignals**  
-Investigación y Lectura de Señales Biomédicas.
+**Scignals**  [ILSB: Investigación y Lectura de Señales Biomédicas].
 
-Parque Científico y Empresarial de la Universidad Miguel Hernández,
-
-Edificio Quorum 3
-
-Avda. de la Universidad s/n
-
+Parque Científico y Empresarial - Universidad Miguel Hernández<br>
+Edificio Quorum 3<br>
+Avda. de la Universidad s/n<br>
 03202, Elche (Spain)
 
 """
@@ -44,13 +40,13 @@ recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 [contact.form]
 enable = true
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)
-use_netlify = true
+use_netlify = false
 # Whether to use recaptch v3 in form
-use_recaptcha = true
+use_recaptcha = false
 # Form action
 ## Fill in your Form ID URL for Formspree.io, e.g. `https://formspree.io/f/{form_id}`
 ## Ignored if `use_netlify = true` (custom [success page](https://docs.netlify.com/forms/setup/#success-messages) is already included) 
-action = "#"
+action = "https://forms.un-static.com/forms/cb0b53fcbf70a276cc44e7d6cd94b19a223f9ff2"
 # Image on custom success page `/message_sent.html`
 success_image = "images/paper-plane.svg"
 

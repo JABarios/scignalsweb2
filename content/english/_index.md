@@ -100,7 +100,7 @@ cta:
   content: "We love neuroscience and we love technology. We work  to deliver  the best possible solutions for improving healthy and injured brains. Read more about our view of neurotechnology field, judge for yourself the work and results we’ve achieved, and meet our highly experienced Team who just love to work hard."
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Contact And Tell Us Your Story"
     link: "contact"
 
 

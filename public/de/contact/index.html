@@ -106,16 +106,6 @@
 
 
 
-<script src="https://www.google.com/recaptcha/api.js?render=xxx-xxxxxxxxxxxxxxxxxxxxxxxx"></script>
-<script>
-  grecaptcha.ready(function() {
-      grecaptcha.execute('xxx-xxxxxxxxxxxxxxxxxxxxxxxx', {action: 'homepage'})
-      .then(function(token) {
-        document.getElementById('captchaResponse').value = token;
-      });
-    });
-</script>
-
 
 
 	
@@ -440,7 +430,7 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form method="POST" name="contact_de" action="/de/message_sent" netlify netlify-honeypot="nhp">
+      <form method="POST" name="contact" action="https://forms.un-static.com/forms/cb0b53fcbf70a276cc44e7d6cd94b19a223f9ff2">
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
@@ -455,12 +445,8 @@
               <label for="subject" hidden>Betreff</label>
               <input id="subject" name="subject" type="text" class="form-control" placeholder="Betreff" required>
             </div>
-            <div class="form-group-h">
-              <input name="nhp" type="text" class="form-control" placeholder="Are you made of flesh and bone?">
-            </div>
-            <div class="form-group-h">
-              <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
-            </div>
+            
+            
           </div>
         </div>
         <div class="col-md-6 col-sm-12">
@@ -480,12 +466,11 @@
           <h2>Adresse</h2>
           <ul class="address-block">
             
-            <li><i class="fas fa-map-marker-alt"></i><div><p><strong>Scignals</strong><br>
-Investigación y Lectura de Señales Biomédicas.</p>
-<p>Parque Científico y Empresarial de la Universidad Miguel Hernández,</p>
-<p>Edificio Quorum 3</p>
-<p>Avda. de la Universidad s/n</p>
-<p>03202, Elche (Spain)</p>
+            <li><i class="fas fa-map-marker-alt"></i><div><p><strong>Scignals</strong>  [ILSB: Investigación y Lectura de Señales Biomédicas].</p>
+<p>Parque Científico y Empresarial - Universidad Miguel Hernández<br>
+Edificio Quorum 3<br>
+Avda. de la Universidad s/n<br>
+03202, Elche (Spain)</p>
 </div></li>
             <li><i class="fas fa-envelope"></i><span class="cloaked-e-mail" data-user="ofni" data-domain="moc.slangics"></span></li>
             <li><i class="fas fa-tty"></i>0124857985320</li>

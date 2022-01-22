@@ -1,6 +1,6 @@
 ---
 id: "0004"
-title: "Brain-Robot Interfaces  in neurorehabilitation"
+title: "Scignabot: Brain-Robot Interfaces  in neurorehabilitation"
 date: 2019-07-20T15:45:23+02:00
 draft: false
 summary: "Scignabot: Innovation in neurorehabilitation with interfaces brain-robot"
@@ -8,6 +8,8 @@ description: "Scignabot: Innovation in neurorehabilitation with interfaces brain
 image : "images/blog/bci.png"
 bg_image: "images/mano_cerebro2.jpg"
 author: "juanb"
+categories: ["Projects"]
+tags: ["BCI","Technology"]
 aliases: ["scignabot"]
 thumbnail: "thumbnail.jpg"
 ---

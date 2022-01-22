@@ -1,12 +1,12 @@
 ---
-id: "0005"
+id: "0009"
 title: "H2020 co-financia Memboost"
 date: 2019-07-21T15:45:23+02:00
 draft: false
 image : "images/blog/imag_h2020_en.png"
 bg_image: "images/mano_cerebro2.jpg"
 categories: ["Company News"]
-tags: ["Advice","Technology"]
+tags: ["i+d","Projects"]
 description: "this is meta description"
 
 summary: "La Comisión Europea respalda el sistema potenciador de memoria MemBoost"

@@ -25,6 +25,55 @@
                 href="https://www.scignals.org/"
                 />
   </url><url>
+    <loc>https://www.scignals.org/categories/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.scignals.org/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.scignals.org/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.scignals.org/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.scignals.org/categories/"
+                />
+  </url><url>
+    <loc>https://www.scignals.org/categories/company-news/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.scignals.org/fr/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.scignals.org/it/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.scignals.org/de/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.scignals.org/categories/company-news/"
+                />
+  </url><url>
+    <loc>https://www.scignals.org/tags/i&#43;d/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+  </url><url>
     <loc>https://www.scignals.org/blog/</loc>
     <lastmod>2022-01-11T15:45:23+02:00</lastmod>
     <xhtml:link
@@ -48,8 +97,34 @@
                 href="https://www.scignals.org/blog/"
                 />
   </url><url>
+    <loc>https://www.scignals.org/tags/projects/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+  </url><url>
     <loc>https://www.scignals.org/blog/joining-hbp/</loc>
     <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/tags/</loc>
+    <lastmod>2022-01-11T15:45:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.scignals.org/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.scignals.org/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.scignals.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.scignals.org/tags/"
+                />
   </url><url>
     <loc>https://www.scignals.org/faq/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
@@ -74,103 +149,41 @@
                 href="https://www.scignals.org/faq/"
                 />
   </url><url>
-    <loc>https://www.scignals.org/tags/advice/</loc>
+    <loc>https://www.scignals.org/tags/bci/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/tags/advice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.scignals.org/tags/advice/"
-                />
-  </url><url>
-    <loc>https://www.scignals.org/categories/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.scignals.org/categories/"
-                />
-  </url><url>
-    <loc>https://www.scignals.org/categories/company-news/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.scignals.org/categories/company-news/"
-                />
   </url><url>
     <loc>https://www.scignals.org/blog/trainer-proyecto-mutua/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.scignals.org/tags/</loc>
+    <loc>https://www.scignals.org/tags/robotics/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.scignals.org/tags/"
-                />
+  </url><url>
+    <loc>https://www.scignals.org/tags/stroke/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/tags/cognitive-enhancing/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/blog/captacion-procesamiento-avanzado/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/blog/instrument_phasei_memboost.es/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/blog/enhancing-memory-memboost/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/tags/neuromonitoring/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/categories/projects/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+  </url><url>
+    <loc>https://www.scignals.org/blog/recording-signals-signalino/</loc>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
   </url><url>
     <loc>https://www.scignals.org/tags/technology/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -192,17 +205,11 @@
                 href="https://www.scignals.org/tags/technology/"
                 />
   </url><url>
-    <loc>https://www.scignals.org/blog/captacion-procesamiento-avanzado/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+    <loc>https://www.scignals.org/tags/neurorehabilitation/</loc>
+    <lastmod>2019-07-20T15:45:23+02:00</lastmod>
   </url><url>
-    <loc>https://www.scignals.org/blog/instrument_phasei_memboost.es/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
-  </url><url>
-    <loc>https://www.scignals.org/blog/enhancing-memory-memboost/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
-  </url><url>
-    <loc>https://www.scignals.org/blog/recording-signals-signalino/</loc>
-    <lastmod>2019-07-21T15:45:23+02:00</lastmod>
+    <loc>https://www.scignals.org/categories/science/</loc>
+    <lastmod>2019-07-20T15:45:23+02:00</lastmod>
   </url><url>
     <loc>https://www.scignals.org/blog/scignabot_proyecto/</loc>
     <lastmod>2019-07-20T15:45:23+02:00</lastmod>

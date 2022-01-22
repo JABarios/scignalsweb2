@@ -8,7 +8,8 @@ bg_image: "images/mano_cerebro2.jpg"
 categories: ["Company News"]
 tags: ["Advice","Technology"]
 description: "this is meta description"
-
+categories: ["Company News"]
+tags: ["i+d","Projects","Stroke","Robotics","BCI"]
 summary: "Mutua Madrileña apoya con 60.000 euros el proyecto de la UMH de rehabilitación motora usando una interfaz cerebro-robot"
 description: "Mutua Madrileña apoya con 60.000 euros el proyecto de la UMH de rehabilitación motora usando una interfaz cerebro-robot"
 author: juanb

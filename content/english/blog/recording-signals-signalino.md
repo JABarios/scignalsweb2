@@ -1,16 +1,15 @@
 ---
-id: "0005"
+id: "0006"
 title: "Recording brain signals with Signalino"
 date: 2019-07-21T15:45:23+02:00
 draft: false
 image : "images/blog/1_600.jpg"
 bg_image: "images/mano_cerebro2.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
+categories: ["Projects"]
+tags: ["Neuromonitoring","Technology"]
 description: "this is meta description"
-
-summary: "La Comisión Europea respalda el sistema potenciador de memoria MemBoost"
-description: "La Comisión Europea respalda el sistema potenciador de memoria MemBoost"
+summary: "Signalino, a signal recorder"
+description: "Signalino, a signal recorder"
 author:
 ---
 

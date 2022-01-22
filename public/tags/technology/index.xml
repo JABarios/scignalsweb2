@@ -6,34 +6,7 @@
     <description>Recent content in Technology on Scignals | Surfing on brainwaves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.scignals.org/tags/technology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mutua Madrileña apoya con 60.000 euros el proyecto de la UMH de rehabilitación motora usando una interfaz cerebro-robot</title>
-      <link>https://www.scignals.org/blog/trainer-proyecto-mutua/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.scignals.org/blog/trainer-proyecto-mutua/</guid>
-      <description>Mutua Madrileña apoya con 60.000 euros el proyecto de la UMH de rehabilitación motora usando una interfaz cerebro-robot</description>
-    </item>
-    
-    <item>
-      <title>El IVACE ha financiado nuestro proyecto &lt;&lt;CAPTACIóN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS&gt;&gt;</title>
-      <link>https://www.scignals.org/blog/captacion-procesamiento-avanzado/</link>
-      <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
-      
-      <guid>https://www.scignals.org/blog/captacion-procesamiento-avanzado/</guid>
-      <description>CAPTACIÓN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS</description>
-    </item>
-    
-    <item>
-      <title>H2020 co-financia Memboost</title>
-      <link>https://www.scignals.org/blog/instrument_phasei_memboost.es/</link>
-      <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
-      
-      <guid>https://www.scignals.org/blog/instrument_phasei_memboost.es/</guid>
-      <description>La Comisión Europea respalda el sistema potenciador de memoria MemBoost</description>
-    </item>
-    
+    <lastBuildDate>Sun, 21 Jul 2019 15:45:23 +0200</lastBuildDate><atom:link href="https://www.scignals.org/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memboost improves your memory and your sleep</title>
       <link>https://www.scignals.org/blog/enhancing-memory-memboost/</link>
@@ -49,7 +22,25 @@
       <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
       
       <guid>https://www.scignals.org/blog/recording-signals-signalino/</guid>
-      <description>La Comisión Europea respalda el sistema potenciador de memoria MemBoost</description>
+      <description>Signalino, a signal recorder</description>
+    </item>
+    
+    <item>
+      <title>Scignabot: Brain-Robot Interfaces  in neurorehabilitation</title>
+      <link>https://www.scignals.org/blog/scignabot_proyecto/</link>
+      <pubDate>Sat, 20 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/blog/scignabot_proyecto/</guid>
+      <description>Scignabot: Innovation in neurorehabilitation with interfaces brain-robot</description>
+    </item>
+    
+    <item>
+      <title>Stroke neurorehabilitation</title>
+      <link>https://www.scignals.org/blog/stroke-neurorehab/</link>
+      <pubDate>Sat, 20 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/blog/stroke-neurorehab/</guid>
+      <description>En España, 420 mil personas viven con daño cerebral adquirido (DCA), que requieren terapias de neurorrehabilitación y en pocas ocasiones acceden a terapias robóticas.</description>
     </item>
     
   </channel>
