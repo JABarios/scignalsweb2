@@ -8,8 +8,8 @@ banner:
   content: "En **SCIGNALS** desarrollamos neurotecnología para el mundo real. Creamos soluciones hardware y software utilizando herramientas de  inteligencia artificial, monitorización y procesamiento avanzado de señales biomédicas para ayudar a los profesionales de la salud y la neurociencia."
   button:
     enable: true
-    label: "Discover Our Projects"
-    link: "project"
+    label: "Discover Our Company"
+    link: "/about"
 
 ############################# About #################################
 about:
@@ -27,11 +27,12 @@ about:
 featured_service:
   enable : true
   title: "OUR TECHNOLOGY"
+#  bg_image: "images/bitmap1.png"
   service_item:
     # featured service item loop
     - name : "Brain Robot Interfaces"
       icon : "fas fa-robot"
-      color : "primary"
+      color : "primary-darker"
       content : "A neurorehabilitation approach combining robot-assisted active physical therapy and traditional  Brain-Computer Interface systems (BCIs), providing  significant advances over conventional rehabilitation methods for patients with severe motor impairment due to cerebrovascular brain damage (e.g., stroke)."
 
     # featured service item loop
@@ -51,7 +52,8 @@ featured_service:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/bitmap.png"
+  bg_image: "images/bitmap1.png"
+  color: "red"
   title: "OUR PROJECTS"
   content: " Para lograr estos objetivos, actualmente estamos trabajando en diferentes proyectos:
 

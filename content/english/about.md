@@ -1,7 +1,7 @@
 ---
 title: "About Our Company"
 description: "Surfing on brainwaves"
-bg_image: "images/mano_cerebro.jpg"
+bg_image: "images/mano_cerebro2.jpg"
 layout: "about"
 draft: false
 
@@ -84,7 +84,7 @@ Un conjunto equilibrado de expertos reconocidos en áreas  complementarias (neur
 
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
   # feature item loop
@@ -120,7 +120,7 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
@@ -159,9 +159,19 @@ mission_vision:
     illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
     temporibus eos sequi alias hic nemo."
 
+  # tab item loop
+  - name : "Mission"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
+    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
+    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
+    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
+    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
+    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
+    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+    temporibus eos sequi alias hic nemo."
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---

@@ -1,6 +1,6 @@
 ---
 id: "0008"
-title: "Scignals participates in the Spanish Innovation comunity"
+title: "Scignals participates in the Spanish HBP National Innovation comunity"
 date: 2022-01-11T15:45:23+02:00
 draft: false
 summary: "Scignals participates in the Spanish Innovation comunity"

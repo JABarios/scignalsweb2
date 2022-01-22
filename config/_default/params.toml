@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.jpg"
+logo = "images/logo_scignals.jpg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "150px"
@@ -13,7 +13,7 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Scignals"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/logo_scignals.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
@@ -33,7 +33,7 @@ Avda. de la Universidad s/n
 
 """
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "<img src=\"/images/logo-eu-02-en.svg\" width=\"50\" height=\"60\" > <img src=\"/images/mini_ivace.png\" height=\"60\" > Project co-financed by European Union & IVACE "
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -55,21 +55,21 @@ action = "#"
 success_image = "images/paper-plane.svg"
 
 legal_formulario="""
-Responsable del tratamiento: Los datos tratados en el presente formulario, serán tratados por la empresa INVESTIGACION Y LECTURA DE SEÑALES BIOMEDICAS, S.L. con CIF  y domicilio en  como Responsable del Tratamiento de los datos.
+**Responsable del tratamiento**: Los datos tratados en el presente formulario, serán tratados por la empresa INVESTIGACION Y LECTURA DE SEÑALES BIOMEDICAS, S.L. con CIF  y domicilio en  como Responsable del Tratamiento de los datos.
 
-Finalidad: Le queremos informar que la finalidad de los datos recogidos es la gestión de usuarios de la página web, así como la gestión de comunicación electrónica.
+**Finalidad**: Le queremos informar que la finalidad de los datos recogidos es la gestión de usuarios de la página web, así como la gestión de comunicación electrónica.
 
-Legitimación: consentimiento otorgado marcando la correspondiente casilla de verificación. Sus datos personales serán tratados en base a nuestra política de privacidad.
+**Legitimación**: consentimiento otorgado marcando la correspondiente casilla de verificación. Sus datos personales serán tratados en base a nuestra política de privacidad.
 
-Negativa otorgar el consentimiento: El hecho de que no introduzca los datos que aparecen marcados como obligatorios en el formulario tendrá como consecuencia la no atención de su solicitud.
+**Negativa a otorgar el consentimiento**: El hecho de que no introduzca los datos que aparecen marcados como obligatorios en el formulario tendrá como consecuencia la no atención de su solicitud.
 
-Destinatarios: Sus datos no serán cedidos a ninguna empresa, salvo obligación legal.
+**Destinatarios**: Sus datos no serán cedidos a ninguna empresa, salvo obligación legal.
 
-Derechos: Puede acceder, rectificar y suprimir sus datos, solicitar la portabilidad de estos, así como su limitación u oposición a su tratamiento, tiene derecho a no ser objeto de decisiones automatizadas, así como a obtener información clara y transparente sobre el tratamiento de sus datos, tal como se explica en la información adicional.
+**Derechos**: Puede acceder, rectificar y suprimir sus datos, solicitar la portabilidad de estos, así como su limitación u oposición a su tratamiento, tiene derecho a no ser objeto de decisiones automatizadas, así como a obtener información clara y transparente sobre el tratamiento de sus datos, tal como se explica en la información adicional.
 
-Derecho a presentar una reclamación ante la Autoridad de Control (AEPD): Desde INVESTIGACION Y LECTURA DE SEÑALES BIOMEDICAS, S.L. ponemos el máximo empeño para cumplir con la normativa de protección de datos dado que es el activo más valioso para nosotros.
+**Derecho a presentar una reclamación ante la Autoridad de Control (AEPD)**: Desde INVESTIGACION Y LECTURA DE SEÑALES BIOMEDICAS, S.L. ponemos el máximo empeño para cumplir con la normativa de protección de datos dado que es el activo más valioso para nosotros.
 
-Información adicional: Puede consultar la información adicional y detallada sobre protección de Datos en nuestra página web.
+**Información adicional**: Puede consultar la información adicional y detallada sobre protección de Datos en nuestra página web.
 """
 # Preloader
 [preloader]

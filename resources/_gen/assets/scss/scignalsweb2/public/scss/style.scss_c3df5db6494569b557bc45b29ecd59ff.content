@@ -290,6 +290,10 @@ input[type="tel"] {
     color: #292929;
     font-weight: 300; }
 
+.texto-legal p  {
+  color: #000000;
+}
+
 .page-wrapper {
   padding: 70px 0; }
   @media (max-width: 768px) {
