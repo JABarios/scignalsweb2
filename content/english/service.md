@@ -51,23 +51,23 @@ service:
   service_item:
     # service item loop
     - icon : fas fa-brain #https://fontawesome.com/v5.15/icons
-      name: Desarrollo
-      content: "Desarrollo de proyectos de neurotecnología"
+      name: Development
+      content: "Development of neurotechnology projects"
 
     # service item loop
     - icon : fas fa-user-graduate #https://fontawesome.com/v5.15/icons
-      name: Consultoría
-      content: "Apoyo y participación en proyectos de investigación"
+      name: Consulting
+      content: "Support and participation in research projects"
 
     # service item loop
     - icon : fas fa-poll #https://fontawesome.com/v5.15/icons
       name: Neuromarketing
-      content: "Diseño, ejecución en el campo, análisis e interpretación de los datos"
+      content: "Design, execution in the field, analysis and interpretation of the data"
 
     # service item loop
     - icon : fas fa-laptop-code #https://fontawesome.com/v5.15/icons
       name: Software
-      content: "Desarrollo productos software relacionados con el análisis de señales"
+      content: "Development of software products related to signal processing"
 
 
 ############################# call to action #################################

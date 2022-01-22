@@ -1,0 +1,75 @@
+############# English navigation ##############
+
+[[main]]
+name = "Tecnologias"
+url = "project/"
+weight = 1
+hasChildren = true
+
+  [[main]]
+  parent = "Tecnologias"
+  name = "Scignabot"
+  url = "blog/scignabot_proyecto/"
+  weight = 1
+
+  [[main]]
+  parent = "Tecnologias"
+  name = "Signalino"
+  url = "blog/recording-signals-signalino/"
+  weight = 2
+
+  [[main]]
+  parent = "Tecnologias"
+  name = "Memboost"
+  url = "blog/enhancing-memory-memboost/"
+  weight = 3
+
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 5
+
+[[main]]
+name = "Contacta"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+
+[[footer]]
+name = "About"
+url = "about/"
+weight = 3
+
+[[footer]]
+name = "Project"
+url = "project/"
+weight = 4
+
+[[footer]]
+name = "Service"
+url = "service/"
+weight = 5
+
+
+[[footer]]
+name = "Contacta"
+url = "contact/"
+weight = 6

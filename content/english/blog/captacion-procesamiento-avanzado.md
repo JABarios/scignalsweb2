@@ -1,32 +1,29 @@
 ---
 id: "0009"
-title: "El IVACE ha financiado nuestro proyecto <<CAPTACIóN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS>>"
+title: "CAPTURE AND ADVANCED PROCESSING OF NIGHTTIME BIOMEDICAL SIGNALS TO IMPROVE COGNITIVE CAPACITIES"
 date: 2019-07-21T15:45:23+02:00
 draft: false
-image : "images/blog/proy_ivace.jpg"
+image : "/images/FEDERIvaceDeclaracionCS.png"
 bg_image: "images/mano_cerebro2.jpg"
 categories: ["Company News"]
 tags: ["i+d","projects"]
-description: "this is meta description"
+description: "The IVACE has financed our project!!"
 ---
 
+![](images/blog/proy_ivace.jpg)
 
-
-CAPTACIÓN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS
-
-### PROYECTO: CAPTACIÓN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS
 
 NÚMERO DE EXPEDIENTE: IMCBTA/2019/30
 ENTIDAD FINANCIADORA: IVACE – CREATEC. FONDOS FEDER
 
 ### PROYECTO
 
-El  Instituto Valenciano de Competitividad Empresarial (Ivace) y la UE (fondos FEDER), han co-financiado el proyecto "CAPTACIÓN Y PROCESAMIENTO AVANZADO DE SEÑALES BIOMÉDICAS NOCTURNAS PARA MEJORA DE LAS CAPACIDADES COGNITIVAS", desarrollado por la empresa SCIGNALS.
+The Valencian Institute of Business Competitiveness (Ivace) and the EU (FEDER funds), have co-financed the project "COLLECTION AND ADVANCED PROCESSING OF NIGHTTIME BIOMEDICAL SIGNALS TO IMPROVE COGNITIVE CAPACITIES", developed by the company SCIGNALS.
 
 
-### OBJETIVOS ALCANZADOS
+### ACHIEVED GOALS
 
-- Empleo de la plataforma signalino como sistema de registro de señales de electroencefalografía durante el sueño para ser transferida de forma inalámbrica a un dispositivo móvil.
-- Desarrollo e implementación de los algoritmos necesarios para la detección de las diversas fases del sueño.
-- Desarrollo e implementación de los algoritmos necesarios para la generación de un estímulo sonoro que se encuentre sincronizado con la señal eléctrica cerebral durante la fase del sueño lento
-- Diseño y desarrollo de un sistema wearable basado en la plataforma signalino miniaturizado, de bajo coste, portátil y autonomía suficiente para 12 horas de funcionamiento continuo.
+- Use of the signalino platform as a recording system for electroencephalography signals during sleep to be wirelessly transferred to a mobile device.
+- Development and implementation of the necessary algorithms for the detection of the various phases of sleep.
+- Development and implementation of the necessary algorithms for the generation of a sound stimulus that is synchronized with the cerebral electrical signal during the slow sleep phase
+- Design and development of a wearable system based on the miniaturized signalino platform, low cost, portable and with sufficient autonomy for 12 hours of continuous operation.

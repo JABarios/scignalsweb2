@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Scignals | Surfing on brainwaves</title>
+    <link>https://www.scignals.org/es/tags/technology/</link>
+    <description>Recent content in Technology on Scignals | Surfing on brainwaves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sun, 21 Jul 2019 15:45:23 +0200</lastBuildDate><atom:link href="https://www.scignals.org/es/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memboost mejora tu  memoria y tu sueño</title>
+      <link>https://www.scignals.org/es/blog/enhancing-memory-memboost/</link>
+      <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/blog/enhancing-memory-memboost/</guid>
+      <description>Memoria y sueño La complejidad de las sociedades modernas nos exige el aprendizaje permanente, por lo que la memoria es una necesidad que abarca toda la vida, hasta edades avanzadas.</description>
+    </item>
+    
+    <item>
+      <title>Recording brain signals with Signalino</title>
+      <link>https://www.scignals.org/es/blog/recording-signals-signalino/</link>
+      <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/blog/recording-signals-signalino/</guid>
+      <description>Signalino, a signal recorder</description>
+    </item>
+    
+    <item>
+      <title>Scignabot: Brain-Robot Interfaces  in neurorehabilitation</title>
+      <link>https://www.scignals.org/es/blog/scignabot_proyecto/</link>
+      <pubDate>Sat, 20 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/blog/scignabot_proyecto/</guid>
+      <description>Scignabot: Innovation in neurorehabilitation with interfaces brain-robot</description>
+    </item>
+    
+    <item>
+      <title>Stroke neurorehabilitation</title>
+      <link>https://www.scignals.org/es/blog/stroke-neurorehab/</link>
+      <pubDate>Sat, 20 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/blog/stroke-neurorehab/</guid>
+      <description>En España, 420 mil personas viven con daño cerebral adquirido (DCA), que requieren terapias de neurorrehabilitación y en pocas ocasiones acceden a terapias robóticas.</description>
+    </item>
+    
+  </channel>
+</rss>

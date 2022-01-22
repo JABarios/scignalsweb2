@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Scignals | Surfing on brainwaves</title>
+    <link>https://www.scignals.org/es/categories/</link>
+    <description>Recent content in Categories on Scignals | Surfing on brainwaves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 11 Jan 2022 15:45:23 +0200</lastBuildDate><atom:link href="https://www.scignals.org/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Company News</title>
+      <link>https://www.scignals.org/es/categories/company-news/</link>
+      <pubDate>Tue, 11 Jan 2022 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/categories/company-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.scignals.org/es/categories/projects/</link>
+      <pubDate>Sun, 21 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://www.scignals.org/es/categories/science/</link>
+      <pubDate>Sat, 20 Jul 2019 15:45:23 +0200</pubDate>
+      
+      <guid>https://www.scignals.org/es/categories/science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

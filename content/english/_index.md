@@ -5,7 +5,7 @@ banner:
   bg_image: "images/mano_cerebro2.jpg"
   bg_overlay: true
   title: "A Neurotechnology <br/> Company"
-  content: "En **SCIGNALS** desarrollamos neurotecnología para el mundo real. Creamos soluciones hardware y software utilizando herramientas de  inteligencia artificial, monitorización y procesamiento avanzado de señales biomédicas para ayudar a los profesionales de la salud y la neurociencia."
+  content: "At **SCIGNALS** we develop neurotechnology for the real world. We create hardware and software solutions using artificial intelligence, monitoring and advanced biomedical signal processing tools to help health and neuroscience professionals."
   button:
     enable: true
     label: "Discover Our Company"
@@ -15,7 +15,7 @@ banner:
 about:
   enable: true
   title: "<a id=\"miabout\"></a>Our Mision"
-  description: "En **SCIGNALS** desarrollamos neurotecnología para el mundo real. Creamos soluciones hardware y software utilizando herramientas de  inteligencia artificial, monitorización y procesamiento avanzado de señales biomédicas para ayudar a los profesionales a resolver sus problemas prácticos en el campo de la salud y la neurociencia."
+  description: "At **SCIGNALS** we develop neurotechnology for the real world. We create hardware and software solutions using artificial intelligence, monitoring and advanced biomedical signal processing tools to help professionals solve their practical problems in the field of health and neuroscience."
   content: "
 
 "
@@ -36,12 +36,12 @@ featured_service:
       content : "A neurorehabilitation approach combining robot-assisted active physical therapy and traditional  Brain-Computer Interface systems (BCIs), providing  significant advances over conventional rehabilitation methods for patients with severe motor impairment due to cerebrovascular brain damage (e.g., stroke)."
 
     # featured service item loop
-    - name : "Neuromonitorización"
+    - name : "Neuromonitoring"
       icon : "fas fa-signature"
       color : "primary-dark"
-      content : "Sistemas orientados a la	evaluación	de	la	integridad	de	las	vías	sensoriales,	motoras	y	cognitivas de forma no	invasiva,	contnua,	fácil	y	rápida	de	interpretar,	y	con	un	coste	económico	razonable."
+      content : "Systems oriented to the evaluation of the integrity of the sensory, motor and cognitive pathways in a non-invasive, continuous, easy and fast way to interpret, and with a reasonable economic cost."
     # featured service item loop
-    - name : "Mejora Cognitiva"
+    - name : "Cognitive Enhancing"
       icon : "fas fa-brain"
       color : "primary"
       content : "Recent advances in neuroscience technologies  have paved the way to innovative applications that cognitively augment and enhance humans in a variety of contexts, including  the areas of communication, cognitive enhancement, memory, attention monitoring/enhancement, situation awareness and complex problem solving."
@@ -55,22 +55,21 @@ portfolio:
   bg_image: "images/bitmap1.png"
   color: "red"
   title: "OUR PROJECTS"
-  content: " Para lograr estos objetivos, actualmente estamos trabajando en diferentes proyectos:
+  content: " To achieve these goals, we are currently working on different projects:
 
 	
-### [Scignabot](/blog/scignabot_proyecto/)
+### [Scignabot](/blog/scignabot_project/)
 
-un interfaz cerebro-computadora para la interacción con robots de neurorrehabilitación, desarrollado en el Laboratorio de Nuevas Tecnologías para la Neurorrehabilitación (Madrid, España), uniendo fuerzas con la [Fundación Instituto San José, ](http://fundacioninstitutosanjose.com/) perteneciente a la Orden de San Juan de Dios, y la empresa [iDRhA](\"http://www.idrha.es\"), una spin-off del [grupo de NeuroBioengeniering](\"bio.umh.es\") de la Universidad Miguel Hernández de Elche (Alicante, España).
+a brain-computer interface for interaction with neurorehabilitation robots, developed at the Laboratory of New Technologies for Neurorehabilitation (Madrid, Spain), joining forces with the [San José Institute Foundation, ](http://fundacioninstitutosanjose.com/) belonging to the Order of San Juan de Dios, and the company [iDRhA](\"http://www.idrha.es\"), a spin-off of the [NeuroBioengineering group](\"bio.umh.es \") of the Miguel Hernández University of Elche (Alicante, Spain).
 
 
 ### [Signalino](/blog/recording-signals-signalino/)
 
-un sistema de adquisición de señales biológicas de código abierto y bajo costo basado en Arduino ([vea nuestra tienda](\"http://www.signalino.com/producto/signalino-kit-2/\"))
+a low-cost, open-source, Arduino-based biological signal acquisition system ([view our store](\"http://www.signalino.com/product/signalino-kit-2/\"))
 
-### [MemBoost](/blog/enhancing-memory-memboost/) 
+### [MemBoost](/blog/enhancing-memory-memboost/)
 
-un dispositivo portátil de modulación del sueño para mejora del rendimiento intelectual. [Parcialmente financiado por IVACE y la UE, a través de fondos FEDER](/blog/captacion-procesamiento-avanzado/)  
-
+a wearable sleep modulation device to enhance intellectual performance. [Partially financed by IVACE and the EU, through FEDER funds](/blog/captacion-processamiento-advanced/)
 "
 
   button:
