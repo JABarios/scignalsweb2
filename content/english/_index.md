@@ -74,9 +74,8 @@ a wearable sleep modulation device to enhance intellectual performance. [Partial
 
   button:
     enable: true
-    label: "View Works"
-    link: "project"
-
+    label: "Our projects"
+    link: "/categories/projects/"
 ############################# Service ############################
 service:
   enable: true

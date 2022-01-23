@@ -75,8 +75,9 @@ un dispositivo portátil de modulación del sueño para mejora del rendimiento i
 
   button:
     enable: true
-    label: "View Works"
-    link: "project"
+    label: "Nuestros proyectos"
+    link:  "/categories/projects/"
+
 
 ############################# Service ############################
 service:

@@ -10,46 +10,46 @@ draft: false
 about:
   enable : true
   image : "images/unafoto.jpg"
-  title : "Somos una empresa de neurotecnología."
+  title : "We are a neurotechnology company."
   content : "
-  SCIGNALS es una startup de neurotecnología nacida en colaboración con  las Universidades Politécnica de Madrid (UPM) y Miguel Hernández de Elche (UMH), enfocada en la investigación, desarrollo y comercialización de tecnologías especializadas para registrar y procesar señales biomédicas en el campo de la salud y la neurociencia. 
+SCIGNALS is a neurotechnology startup born in collaboration with the Polytechnic University of Madrid (UPM) and Miguel Hernández de Elche (UMH), focused on the research, development and commercialization of specialized technologies to record and process biomedical signals in the field of health and neuroscience.
   
-  Nuestras principales activos son:
+  Our main assets are:
   
-  ### **Tecnología propia** con aplicaciones demostradas en cuatro áreas:
+  ### **Proprietary technology** with proven applications in four areas:
   
-  > 1. Mejora cognitiva: [Memboost](/blog/enhancing-memory-memboost), 
+  > 1. Cognitive enhancement: [Memboost](/blog/enhancing-memory-memboost),
   
-  > 1. Dispositivos robóticos de neurorehabilitación controlados por BCI: [Scignabot](/blog/scignabot_proyecto) , 
+  > 1. Robotic neurorehabilitation devices controlled by BCI: [Scignabot](/blog/scignabot_project) ,
   
-  > 1. Dispositivos de neuromonitorización: [Signalino](/blog/recording-signals-signalino), 
+  > 1. Neuromonitoring devices: [Signalino](/blog/recording-signals-signalino),
   
-  > 1. Neurociencia aplicada al consumidor: [Brainnovative](www.brainnovative.es).
+  > 1. Neuroscience applied to the consumer: [Brainnovative](www.brainnovative.es).
   
 
 
 
-### **Sólidas alianzas** establecidas con instituciones y empresas del sector 
+### **Solid alliances** established with institutions and companies in the sector
 
-> - **Universidades**:  Nuestra sede, en Elche (Alicante, Spain),  está en el [Parque cientifico de la Universidad Miguel Hernández](https://parquecientificoumh.es/es), facilitando la colaboración empresa-universidad. 
+> - **Universities**: Our headquarters, in Elche (Alicante, Spain), is in the [Miguel Hernández University Science Park](https://parquecientificoumh.es/es), facilitating company-university collaboration.
 
-> - **Insituciones Clínicas**: Nuestro Laboratorio de Nuevas Tecnologías (Madrid,Spain), situado en la [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), una institución clínica de larga tradición que facilita el desarrollo de dispositivos en el area de salud.
+> - **Clinical Institutions**: Our New Technologies Laboratory (Madrid,Spain), located in the [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), a clinical institution with a long tradition that facilitates the development of devices in the health area.
 
-> - **Mundo empresarial**: <a href=\"http://www.brainnovative.es\">Brainnovative</a>, una empresa especializada en consultoría para neurociencias orientadas al consumidor, utiliza nuestras soluciones tecnológicas 
-
-
-
-### **Equipo fundador**
-
-Un conjunto equilibrado de expertos reconocidos en áreas  complementarias (neurociencia, medicina, ingeniería, operaciones y desarrollo de negocio), 
+> - **Business world**: <a href=\"http://www.brainnovative.es\">Brainnovative</a>, a company specializing in consumer-oriented neuroscience consulting, uses our technology solutions
 
 
+
+### **Founding Team**
+
+A balanced set of recognized experts in complementary areas (neuroscience, medicine, engineering, operations and business development),
 "
  
   button:
     enable : true
-    label : "Download Company Profile"
-    link : "#"
+    label : "Company News"
+    link : "/categories/company-news/"
+
+
 
   funfacts:
   # funfacts loop

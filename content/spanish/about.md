@@ -1,5 +1,5 @@
 ---
-title: "About Our Company"
+title: "Acerca de  Nuestra Compañía"
 description: "Scignals: Surfing on brainwaves"
 bg_image: "images/mano_cerebro2.jpg"
 layout: "about"
@@ -48,8 +48,9 @@ Un conjunto equilibrado de expertos reconocidos en áreas  complementarias (neur
  
   button:
     enable : true
-    label : "Download Company Profile"
-    link : "#"
+    label : "Noticias de empresa"
+    link : "/categories/company-news/"
+
 
   funfacts:
   # funfacts loop
