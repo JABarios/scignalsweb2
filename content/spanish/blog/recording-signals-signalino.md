@@ -1,6 +1,6 @@
 ---
 id: "0006"
-title: "Recording brain signals with Signalino"
+title: "Registrando señales cerebrales con Signalino"
 date: 2019-07-21T15:45:23+02:00
 draft: false
 image : "images/blog/1_600.jpg"

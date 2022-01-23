@@ -46,7 +46,7 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
+  title : "<a id=\"miservicio\"></a>Our Services"
   description : "Developing solutions in the field of neurotechnology"
   service_item:
     # service item loop

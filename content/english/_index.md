@@ -4,8 +4,8 @@ banner:
   enable: true
   bg_image: "images/mano_cerebro2.jpg"
   bg_overlay: true
-  title: "A Neurotechnology <br/> Company"
-  content: "At **SCIGNALS** we develop neurotechnology for the real world. We create hardware and software solutions using artificial intelligence, monitoring and advanced biomedical signal processing tools to help health and neuroscience professionals."
+  title: "A Neurotechnological <br/>Company"
+  content: "At **SCIGNALS**, we develop neurotechnology for the real world. We create hardware and software solutions using artificial intelligence, neuromonitoring and advanced biomedical signal processing tools to help health and neuroscience professionals."
   button:
     enable: true
     label: "Discover Our Company"
@@ -39,7 +39,7 @@ featured_service:
     - name : "Neuromonitoring"
       icon : "fas fa-signature"
       color : "primary-dark"
-      content : "Systems oriented to the evaluation of the integrity of the sensory, motor and cognitive pathways in a non-invasive, continuous, easy and fast way to interpret, and with a reasonable economic cost."
+      content : "Devices oriented to the evaluation of the integrity of the sensory, motor and cognitive pathways in a non-invasive, continuous, easy and fast way to interpret, and with a reasonable economic cost."
     # featured service item loop
     - name : "Cognitive Enhancing"
       icon : "fas fa-brain"
@@ -60,7 +60,7 @@ portfolio:
 	
 ### [Scignabot](/blog/scignabot_project/)
 
-a brain-computer interface for interaction with neurorehabilitation robots, developed at the Laboratory of New Technologies for Neurorehabilitation (Madrid, Spain), joining forces with the [San José Institute Foundation, ](http://fundacioninstitutosanjose.com/) belonging to the Order of San Juan de Dios, and the company [iDRhA](\"http://www.idrha.es\"), a spin-off of the [NeuroBioengineering group](\"bio.umh.es \") of the Miguel Hernández University of Elche (Alicante, Spain).
+a brain-computer interface system for interaction with neurorehabilitation robots, developed at the Laboratory of New Technologies for Neurorehabilitation (Madrid, Spain), joining forces with the [San José Institute Foundation, ](http://fundacioninstitutosanjose.com/) belonging to the Order of San Juan de Dios, and the company [iDRhA](\"http://www.idrha.es\"), a spin-off of the [NeuroBioengineering group](\"bio.umh.es \") of the Miguel Hernández University of Elche (Alicante, Spain).
 
 
 ### [Signalino](/blog/recording-signals-signalino/)

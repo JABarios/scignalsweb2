@@ -1,29 +1,33 @@
 ############# English navigation ##############
 
 [[main]]
-name = "Technologies"
+name = "Products"
 url = "project/"
 weight = 1
 hasChildren = true
 
   [[main]]
-  parent = "Technologies"
+  parent = "Products"
   name = "Scignabot"
   url = "blog/scignabot_proyecto/"
   weight = 1
 
   [[main]]
-  parent = "Technologies"
+  parent = "Products"
   name = "Signalino"
   url = "blog/recording-signals-signalino/"
   weight = 2
 
   [[main]]
-  parent = "Technologies"
+  parent = "Products"
   name = "Memboost"
   url = "blog/enhancing-memory-memboost/"
   weight = 3
 
+[[main]]
+name = "Services"
+url = "/index.html#miservicio"
+weight = 3
 
 [[main]]
 name = "Blog"
@@ -59,15 +63,9 @@ url = "about/"
 weight = 3
 
 [[footer]]
-name = "Project"
-url = "project/"
+name = "Projects"
+url = "/categories/projects/"
 weight = 4
-
-[[footer]]
-name = "Service"
-url = "service/"
-weight = 5
-
 
 [[footer]]
 name = "Contact"

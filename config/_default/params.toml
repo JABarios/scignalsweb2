@@ -5,7 +5,7 @@ favicon = "images/favicon.png"
 logo = "images/logo_scignals.jpg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "150px"
+logo_width = "230px"
 # logo text will only show when logo is missing.
 logo_text = "Scignals"
 # navbar fixed to top
@@ -22,9 +22,9 @@ email = "info@scignals.com"
 location = """
 **Scignals**  [ILSB: Investigación y Lectura de Señales Biomédicas].
 
-Parque Científico y Empresarial - Universidad Miguel Hernández<br>
-Edificio Quorum 3<br>
-Avda. de la Universidad s/n<br>
+Parque Científico y Empresarial - Universidad Miguel Hernández<br/>
+Edificio Quorum 3<br/>
+Avda. de la Universidad s/n<br/>
 03202, Elche (Spain)
 
 """

@@ -1,5 +1,5 @@
 ---
-title: "About Our Company"
+title: "Discover Our Company"
 description: "Scignals: Surfing on brainwaves"
 bg_image: "images/mano_cerebro2.jpg"
 layout: "about"
@@ -10,7 +10,7 @@ draft: false
 about:
   enable : true
   image : "images/unafoto.jpg"
-  title : "We are a neurotechnology company."
+  title : "We are making neurotechnology."
   content : "
 SCIGNALS is a neurotechnology startup born in collaboration with the Polytechnic University of Madrid (UPM) and Miguel Hernández de Elche (UMH), focused on the research, development and commercialization of specialized technologies to record and process biomedical signals in the field of health and neuroscience.
   
@@ -33,7 +33,7 @@ SCIGNALS is a neurotechnology startup born in collaboration with the Polytechnic
 
 > - **Universities**: Our headquarters, in Elche (Alicante, Spain), is in the [Miguel Hernández University Science Park](https://parquecientificoumh.es/es), facilitating company-university collaboration.
 
-> - **Clinical Institutions**: Our New Technologies Laboratory (Madrid,Spain), located in the [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), a clinical institution with a long tradition that facilitates the development of devices in the health area.
+> - **Clinical Institutions**: Our Laboratory of New Technologies for Neurorehabilitation (Madrid, Spain), joining forces with the Order of San Juan de Dios, located in the [Fundación Instituto San José](https://fundacioninstitutosanjose.com/), a clinical institution with a long tradition that facilitates the development of devices in the health area.
 
 > - **Business world**: <a href=\"http://www.brainnovative.es\">Brainnovative</a>, a company specializing in consumer-oriented neuroscience consulting, uses our technology solutions
 

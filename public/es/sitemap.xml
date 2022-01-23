@@ -11,21 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/"
                 />
@@ -39,21 +24,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/categories/"
                 />
@@ -64,21 +34,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/categories/company-news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -105,21 +60,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,21 +102,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/tags/"
                 />
@@ -187,21 +112,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/faq/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -351,21 +261,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/tags/technology/"
                 />
@@ -443,21 +338,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/message_sent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/message_sent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/message_sent/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/message_sent/"
                 />
@@ -467,21 +347,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -497,21 +362,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/author/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/author/"
                 />
@@ -521,21 +371,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -551,21 +386,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/author/john-doe/"
                 />
@@ -575,21 +395,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -605,21 +410,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/pricing/"
                 />
@@ -629,21 +419,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -659,21 +434,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/project/rio-furniture-1/"
                 />
@@ -683,21 +443,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -713,21 +458,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/project/rio-furniture-3/"
                 />
@@ -737,21 +467,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -767,21 +482,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/project/rio-furniture-5/"
                 />
@@ -794,21 +494,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://www.scignals.org/es/project/rio-furniture-6/"
                 />
@@ -818,21 +503,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.scignals.org/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.scignals.org/fr/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.scignals.org/it/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.scignals.org/de/service/"
                 />
     <xhtml:link
                 rel="alternate"
