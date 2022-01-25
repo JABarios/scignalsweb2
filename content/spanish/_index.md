@@ -65,7 +65,7 @@ un interfaz cerebro-computadora para la interacción con robots de neurorrehabil
 
 ### [Signalino](/blog/recording-signals-signalino/)
 
-un sistema de adquisición de señales biológicas de código abierto y bajo costo basado en Arduino ([vea nuestra tienda](\"http://www.signalino.com/producto/signalino-kit-2/\"))
+un sistema de adquisición de señales biológicas de código abierto y bajo costo basado en Arduino ([vea nuestra tienda](http://www.signalino.org))
 
 ### [MemBoost](/blog/enhancing-memory-memboost/) 
 

@@ -16,13 +16,27 @@ hasChildren = true
   parent = "Products"
   name = "Signalino"
   url = "blog/recording-signals-signalino/"
-  weight = 2
+  weight = 3
+  hasChildren = true
 
+  
   [[main]]
   parent = "Products"
   name = "Memboost"
   url = "blog/enhancing-memory-memboost/"
-  weight = 3
+  weight = 2
+
+  [[main]]
+  parent = "Products"
+  name = "Signalino 8"
+  url = "http://www.signalino.org/signalino-8"
+  weight = 4
+  
+  [[main]]
+  parent = "Products"
+  name = "Signalino Due"
+  url = "http://www.signalino.org/signalino-due"
+  weight = 5
 
 [[main]]
 name = "Services"
@@ -40,9 +54,15 @@ url = "about/"
 weight = 5
 
 [[main]]
+name = "Shop"
+url = "http://www.signalino.org/shop"
+weight = 6
+
+
+[[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 
 
 # footer menu

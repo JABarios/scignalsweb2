@@ -65,7 +65,7 @@ a brain-computer interface system for interaction with neurorehabilitation robot
 
 ### [Signalino](/blog/recording-signals-signalino/)
 
-a low-cost, open-source, Arduino-based biological signal acquisition system ([view our store](\"http://www.signalino.com/product/signalino-kit-2/\"))
+a low-cost, open-source, Arduino-based biological signal acquisition system ([view our store](http://www.signalino.org))
 
 ### [MemBoost](/blog/enhancing-memory-memboost/)
 

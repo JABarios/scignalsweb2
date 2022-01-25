@@ -16,16 +16,28 @@ hasChildren = true
   parent = "Productos"
   name = "Signalino"
   url = "blog/recording-signals-signalino/"
-  weight = 2
+  weight = 3
 
   [[main]]
   parent = "Productos"
   name = "Memboost"
   url = "blog/enhancing-memory-memboost/"
-  weight = 3
+  weight = 2
+
+  [[main]]
+  parent = "Productos"
+  name = "Signalino 8"
+  url = "http://www.signalino.org/signalino-8"
+  weight = 4
+  
+  [[main]]
+  parent = "Productos"
+  name = "Signalino Due"
+  url = "http://www.signalino.org/signalino-due"
+  weight = 5
 
 [[main]]
-name = "Services"
+name = "Servicios"
 url = "/index.html#miservicio"
 weight = 3
 
@@ -40,9 +52,14 @@ url = "about/"
 weight = 5
 
 [[main]]
+name = "Tienda"
+url = "http://wp.signalino.org/shop/"
+weight = 6
+
+[[main]]
 name = "Contacto"
 url = "contact/"
-weight = 6
+weight = 7
 
 
 # footer menu

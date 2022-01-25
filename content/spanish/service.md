@@ -46,8 +46,8 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Developing solutions in the field of neurotechnology"
+  title : "<a id=\"miservicio\">Nuestros Servicios"
+  description : "Desarrollamos soluciones en el campo de la neurotecnología"
   service_item:
     # service item loop
     - icon : fas fa-brain #https://fontawesome.com/v5.15/icons
