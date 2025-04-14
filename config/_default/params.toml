@@ -67,6 +67,25 @@ legal_formulario="""
 
 **Información adicional**: Puede consultar la información adicional y detallada sobre protección de Datos en nuestra página web.
 """
+legals_formulario = """
+**Data Controller**: The data collected in this form will be processed by the company INVESTIGACION Y LECTURA DE SEÑALES BIOMEDICAS, S.L., with Tax ID number and registered address at , as the Data Controller.
+
+**Purpose**: We would like to inform you that the purpose of the data collected is to manage users of the website, as well as electronic communications management.
+
+**Legal Basis**: Consent given by checking the corresponding checkbox. Your personal data will be processed in accordance with our privacy policy.
+
+**Refusal to Grant Consent**: Failure to provide the required information marked as mandatory in the form will result in us not being able to process your request.
+
+**Recipients**: Your data will not be shared with any company, except where required by law.
+
+**Rights**: You may access, rectify, and delete your data, request data portability, as well as request restriction or objection to its processing. You also have the right not to be subject to automated decision-making and to obtain clear and transparent information about how your data is being processed, as explained in the additional information.
+
+**Right to File a Complaint with the Supervisory Authority (AEPD)**: At INVESTIGACION Y LECTURA DE SEÑALES BIOMEDICAS, S.L., we strive to comply with data protection regulations, as it is one of our most valuable assets.
+
+**Additional Information**: You can consult additional and detailed information about data protection on our website.
+"""
+
+
 # Preloader
 [preloader]
 enable = true

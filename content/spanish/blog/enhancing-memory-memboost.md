@@ -7,7 +7,7 @@ image : "images/blog/memboost_propuesta.png"
 bg_image: "images/mano_cerebro2.jpg"
 categories: ["Projects"]
 tags: ["Cognitive enhancing","Technology"]
-description: "this is meta description"
+description: "Estimulación Auditiva durante el sueño sincronizada con EEG"
 
 ---
 
