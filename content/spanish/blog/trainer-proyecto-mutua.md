@@ -24,3 +24,6 @@ Además de la UMH, en este proyecto participan el Hospital Fundación San José 
 
 Los resultados del proyecto Trainer tendrán un gran impacto social y económico. Los costes sociales del daño cerebral adquirido, especialmente cuando la causa del daño cerebral es la enfermedad vascular, son muy altos por el coste de pérdida de trabajo y el coste emocional en las familias afectadas. Por ello, avanzar en  la comprensión de los procesos que subyacen a la recuperación funcional después del daño cerebral es un gran desafío para la neurobiología y la neurología clínica y es uno de los desafíos de las políticas de investigación europeas e internacionales. Este proyecto en el que participa la UMH y colabora Scignals pretende entender mejor estos procesos y mejorar los de neurorrehabilitación, lo que supondría una enorme mejoría en los cuidados de los pacientes y, por consiguiente, una reducción de costes. Además, facilitaría una actividad asistencial más llevadera durante la fase crónica de la enfermedad.
 
+[Source](https://comunicacion.umh.es/2019/09/24/la-fundacion-mutua-madrilena-entrega-una-ayuda-de-60-000-euros-a-un-proyecto-en-el-que-participa-la-umh-sobre-una-interfaz-cerebro-robot/)
+
+
