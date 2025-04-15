@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.scignals.org"
+baseURL = "https://www.scignals.com"
 xbaseURL = "https://jabarios.github.io/scignalsweb2/public/"
 title = "Scignals | Surfing on brainwaves"
 theme = "airspace-hugo"
@@ -16,6 +16,7 @@ disqusShortname = "themefisher-template" # we use disqus to show comments in blo
 # disable language
 disableLanguages = ["fr","it","de"] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
+
 
 ############################# Modules ##############################
 [module]

@@ -50,5 +50,5 @@
   
   
   "display": "standalone",
-  "start_url": "/es?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

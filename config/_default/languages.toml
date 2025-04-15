@@ -4,14 +4,14 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-
+baseURL = "https://scignals.com"
 ################# English language ################
 [es]
 languageName = "Español"
 languageCode = "es-ES"
 contentDir = "content/spanish"
 weight = 2
-
+baseURL = "https://scignals.es"
 ################ French language ##################
 [fr]
 languageName = "Français"
@@ -19,6 +19,7 @@ languageCode = "fr-FR"
 contentDir = "content/french"
 weight = 3
 
+baseURL = "https://scignals.com"
 ################ Italian language #################
 [it]
 languageName = "Italiano"
@@ -26,9 +27,11 @@ languageCode = "it-IT"
 contentDir = "content/italian"
 weight = 4
 
+baseURL = "https://scignals.com"
 ################ German language ##################
 [de]
 languageName = "German"
 languageCode = "de-at"
 contentDir = "content/german"
 weight = 5
+baseURL = "https://scignals.com"
