@@ -23,6 +23,5 @@ Several companies, industrial associations and biomedical institutions have alre
 
 We are proud to announce that Scignals is now an active member of this community, reinforcing our commitment to neurotechnology innovation in Europe. Scignals has also been highlighted in the official HBP report “Where is European Brain Innovation Happening?” as one of the most promising Spanish start-ups in the field of neuromonitoring. The report emphasizes our focus on developing non-invasive, anatomically comfortable devices designed for prolonged use, which are especially suited for applications such as sleep monitoring and real-world neurofeedback.
 
-Joining this strategic network will allow us to collaborate with key players in the field, leverage EBRAINS’ advanced tools, and continue developing cutting-edge technologies for brain monitoring and stimulation. --> ES COMO lo he dejado, pasamelo al español
-
+Joining this strategic network will allow us to collaborate with key players in the field, leverage EBRAINS’ advanced tools, and continue developing cutting-edge technologies for brain monitoring and stimulation. 
  
