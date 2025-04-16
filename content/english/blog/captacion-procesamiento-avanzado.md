@@ -8,6 +8,7 @@ bg_image: "images/mano_cerebro2.jpg"
 categories: ["Company News"]
 tags: ["i+d","projects"]
 description: "The IVACE has financed our project!!"
+type: "post"
 ---
 
 ![](images/blog/proy_ivace.jpg)

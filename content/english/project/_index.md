@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/feature-bg.jpg"
 ---
 
-### [MemBoost] (/blog/enhancing-memory-memboost/), un dispositivo portátil que se está desarrollando actualmente, o 
+### [MemBoost] (/blog/enhancing-memory-memboost/), un dispositivo portátil que estamos desarrollando actualmente, o 
 
 ### [Signalino](\"http://www.signalino.com\"). , un sistema de adquisición de códigos biológicos de código abierto y bajo costo basado en Arduino ([vea nuestra tienda]\"http://www.signalino.com/producto/signalino-kit-2/\")
 

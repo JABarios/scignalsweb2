@@ -29,13 +29,13 @@ hasChildren = true
   [[main]]
   parent = "Products"
   name = "Signalino 8"
-  url = "http://www.signalino.org/signalino-8"
+  url = "signalino/"
   weight = 4
   
   [[main]]
   parent = "Products"
   name = "Signalino Due"
-  url = "http://www.signalino.org/signalino-due"
+  url = "signalino/"
   weight = 5
 
 [[main]]
