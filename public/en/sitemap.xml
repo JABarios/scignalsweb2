@@ -506,5 +506,9 @@
                 hreflang="en"
                 href="https://scignals.com/service/"
                 />
+  </url><url>
+    <loc>https://scignals.com/sg_due/</loc>
+  </url><url>
+    <loc>https://scignals.com/signalino/</loc>
   </url>
 </urlset>
